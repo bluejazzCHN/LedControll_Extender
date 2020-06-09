@@ -19,4 +19,4 @@ Base on LedControll to provide useful function.
 
 
 ## Contact Info
-[BluejazzCHN](mailto:songjiangzhang@hotmail.com)
+[BluejazzCHN:](https://github.com/bluejazzCHN) songjiangzhang@hotmail.com
