@@ -2,6 +2,7 @@
 Base on LedControll to provide useful function.
 
 ## Base function
+
 - scrollLeftOutInMsg
 
 - scrollLeftInOutMsg
@@ -11,3 +12,11 @@ Base on LedControll to provide useful function.
 - scrollLeftCrossMsgOnMulti
 
 ## Scroll message function
+
+- scrollMsgOnOne
+
+- scrollMsgOnMulti
+
+
+## Contact Info
+[BluejazzCHN](mailto:songjiangzhang@hotmail.com)
